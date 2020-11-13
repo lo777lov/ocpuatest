@@ -1,0 +1,10 @@
+one:11.0
+two:2.0
+three:4.5
+four:6.0
+five:10.0
+six:45.5
+seven:9.0
+eight:150.0
+nine:0.3
+ten:50.0
